@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "packageManager": "pnpm@8.2.0",
+  "packageManager": "pnpm@8.5.1",
   "dependencies": {
     "@clack/core": "^0.3.2",
     "@clack/prompts": "^0.6.3",
